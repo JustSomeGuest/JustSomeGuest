@@ -6,10 +6,10 @@ I make stuff :P
 
 <p align="center">
   <a href="https://rscripts.net/@justaguest">
-    <img src="Assets/RScripts.png" alt="RScripts Profile" width="144">
+    <img src="Assets/RScripts.png" alt="RScripts Profile" width="142">
   </a>
   <img width="6">
   <a href="https://robloxscripts.com/user/justaguest">
-    <img src="Assets/RobloxScripts.png" alt="RobloxScripts Profile" width="144">
+    <img src="Assets/RobloxScripts.png" alt="RobloxScripts Profile" width="142">
   </a>
 </p>
