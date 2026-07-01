@@ -1,0 +1,74 @@
+<svg width="180" height="52" viewBox="0 0 180 52" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <filter id="discord-glow" x="-20%" y="-50%" width="140%" height="200%">
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+
+    <linearGradient id="discord-bg" x1="0" y1="0" x2="180" y2="52" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#141A2F"/>
+      <stop offset="1" stop-color="#0C0F1A"/>
+    </linearGradient>
+  </defs>
+
+  <rect
+    x="2"
+    y="2"
+    width="176"
+    height="48"
+    rx="14"
+    fill="url(#discord-bg)"/>
+
+  <rect
+    x="2.5"
+    y="2.5"
+    width="175"
+    height="47"
+    rx="13.5"
+    fill="none"
+    stroke="#5865F2"
+    stroke-width="2"
+    stroke-dasharray="18 10"
+    filter="url(#discord-glow)">
+    <animate
+      attributeName="stroke-dashoffset"
+      from="0"
+      to="-56"
+      dur="3.2s"
+      repeatCount="indefinite"/>
+    <animate
+      attributeName="stroke-opacity"
+      values="0.7;1;0.7"
+      dur="2.4s"
+      repeatCount="indefinite"/>
+  </rect>
+
+  <rect
+    x="12"
+    y="10"
+    width="32"
+    height="32"
+    rx="10"
+    fill="#5865F2"
+    fill-opacity="0.18"/>
+
+  <image
+    href=""
+    x="16"
+    y="14"
+    width="24"
+    height="24"/>
+
+  <text
+    x="56"
+    y="31"
+    fill="#F5F7FF"
+    font-family="Segoe UI, Tahoma, Geneva, Verdana, sans-serif"
+    font-size="15"
+    font-weight="700">
+    Discord Server
+  </text>
+</svg>
