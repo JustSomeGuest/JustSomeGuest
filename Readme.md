@@ -1,1 +1,7 @@
-<a href="https://rscripts.net/user/JustAGuest" target="_blank"><img alt="JustAGuest on Rscripts" loading="lazy" width="360" height="132" src="https://rscripts.net/api/embed/user/JustAGuest?theme=dark" /></a>
+<div align="center">
+
+<a href="https://rscripts.net/@justaguest">
+    <img src="Assets/Buttons/RScripts.svg" alt="RScripts Profile">
+</a>
+
+</div>
