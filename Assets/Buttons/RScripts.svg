@@ -1,0 +1,74 @@
+<svg width="340" height="90" viewBox="0 0 340 90" xmlns="http://www.w3.org/2000/svg">
+
+    <defs>
+
+        <linearGradient id="background" x1="0%" y1="0%" x2="100%" y2="100%">
+            <stop offset="0%" stop-color="#1E90FF"/>
+            <stop offset="100%" stop-color="#4F46E5"/>
+        </linearGradient>
+
+        <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
+            <feDropShadow
+                dx="0"
+                dy="0"
+                stdDeviation="8"
+                flood-color="#4DA3FF"
+                flood-opacity="0.85"/>
+        </filter>
+
+        <linearGradient id="shine" x1="0%" y1="0%" x2="100%" y2="0%">
+            <stop offset="0%" stop-color="white" stop-opacity="0"/>
+            <stop offset="50%" stop-color="white" stop-opacity="0.3"/>
+            <stop offset="100%" stop-color="white" stop-opacity="0"/>
+        </linearGradient>
+
+        <clipPath id="clip">
+            <rect x="10" y="10" width="320" height="70" rx="20"/>
+        </clipPath>
+
+    </defs>
+
+    <rect
+        x="10"
+        y="10"
+        width="320"
+        height="70"
+        rx="20"
+        fill="url(#background)"
+        filter="url(#glow)"/>
+
+    <g clip-path="url(#clip)">
+        <rect
+            x="-120"
+            y="0"
+            width="70"
+            height="120"
+            fill="url(#shine)"
+            transform="rotate(20)">
+            <animateTransform
+                attributeName="transform"
+                type="translate"
+                values="-260 0;500 0"
+                dur="3.5s"
+                repeatCount="indefinite"/>
+        </rect>
+    </g>
+
+    <image
+        href="../Icons/RScripts.png"
+        x="28"
+        y="25"
+        width="40"
+        height="40"/>
+
+    <text
+        x="82"
+        y="53"
+        fill="white"
+        font-family="Segoe UI, Arial, sans-serif"
+        font-size="27"
+        font-weight="700">
+        RScripts
+    </text>
+
+</svg>
