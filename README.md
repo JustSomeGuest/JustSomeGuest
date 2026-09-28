@@ -11,7 +11,7 @@
 </div>
 
 <div align="center">
-<a href="https://discord.gg/5fGW7xWT6j">
+<a href="https://discord.gg/N4gBqFdn5R">
     <img src="Assets/Buttons/Discord.svg" alt="Discord Server">
 </a>
 </div>
