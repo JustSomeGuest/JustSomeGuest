@@ -1,3 +1,8 @@
+## Hi, I'm JustSomeGuest. 
+I make Roblox stuff.
+
+<h1 align="center">My Links</h1>
+
 <div align="center">
 <a href="https://rscripts.net/@justsomeguest">
     <img src="Assets/Buttons/RScripts.svg" alt="RScripts Profile">
