@@ -1,23 +1,14 @@
-# Hi, I'm JustSomeGuest.
+Hey, I'm justsomeguest. I make random roblox stuff and other things
 
-I make Roblox stuff.
-
-<h2 align="center">My Links</h2>
-
+# Stats
 <p align="center">
-  <a href="https://rscripts.net/@justsomeguest">
-    <img src="Assets/Buttons/RScripts.svg" alt="RScripts Profile">
-  </a>
+    <img src="https://github-stats.justsomeguest-560.workers.dev/account/total-commits?username=JustSomeGuest" alt="Total commits" />
+    <img src="https://github-stats.justsomeguest-560.workers.dev/account/total-files?username=JustSomeGuest" alt="Total files" />
+    <img src="https://github-stats.justsomeguest-560.workers.dev/account/total-repos?username=JustSomeGuest" alt="Total repositories" />
+    <img src="https://github-stats.justsomeguest-560.workers.dev/account/total-stars?username=JustSomeGuest" alt="Total stars" />
+    <img src="https://github-stats.justsomeguest-560.workers.dev/account/total-forks?username=JustSomeGuest" alt="Total forks" />
 </p>
 
-<p align="center">
-  <a href="https://robloxscripts.com/user/justsomeguest">
-    <img src="Assets/Buttons/RobloxScripts.svg" alt="RobloxScripts Profile">
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://discord.gg/N4gBqFdn5R">
-    <img src="Assets/Buttons/Discord.svg" alt="Discord Server">
-  </a>
-</p>
+# Languages
+- Luau
+- JavaScript
